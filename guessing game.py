@@ -14,11 +14,11 @@ if (e!=-1):
         d=t.find('#answer')
         if(d!=-1):
             print("Good job. So far so right.")
-            u=input("#question ")
+            u=input("#question \n")
             f=u.find('#answer')
             if(f!=-1):
                 print("Well done.")
-                v=input("What is the name of the best student magzine?\n")
+                v=input("#question\n")
                 g=v.find('#answer')
                 if(g!=-1):
                     print("Nice.")
