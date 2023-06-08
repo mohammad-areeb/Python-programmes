@@ -42,7 +42,6 @@ if (e!=-1):
                             else:
                                 print("Keep Experimenting.")
                         print("Thats the end of this program and beginning of new start.\n")
-                        ar=input("i forgot to show you something else. Do you love me? i already know its a yes\n just tell my program also its that- ")
                     else:
                         so=input("security compromised\n SERVER LOCKDOWN")
                 else:
